@@ -1,0 +1,22 @@
+{
+  "name": "wundergroundapp",
+  "version": "0.0.1",
+  "homepage": "https://github.com/erlandsona/wundergroundapp",
+  "authors": [
+    "Austin Erlandson <austin@erlandson.com>"
+  ],
+  "description": "5 day forecast calling from Wunderground API",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.0",
+    "lodash": "~3.0.0"
+  }
+}
